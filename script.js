@@ -6,7 +6,7 @@ canvas.height = window.innerHeight;
 const particles = [];
 const floatingParticles = [];
 const texts = [
-  { text: "BonBon", size: 106 },
+  { text: "Abdallah", size: 150 },
   { text: "Github Session", size: 80 },
 ];
 
